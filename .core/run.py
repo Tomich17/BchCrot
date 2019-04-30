@@ -1,5 +1,5 @@
 #!/bin/usr/python2
-#Mau Recode Ya Bangsat?
+#Mabuhay?
 #Gumamit ng utak simple logic!
 import os
 import sys
