@@ -1,6 +1,6 @@
 #!/bin/usr/python2
 #Mau Recode Ya Bangsat?
-#Dasar Otak Udang!
+#Gumamit ng utak simple logic!
 import os
 import sys
 os.system('clear')
